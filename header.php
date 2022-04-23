@@ -34,7 +34,7 @@
         
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <meta name="robots" content="index, follow">
-        <meta http-equiv="Content-Security-Policy" content="default-src 'self'; style-src 'self' 'unsafe-inline'; img-src *; media-src 'none' ; child-src https://www.google.com; script-src 'self' 'sha256-B8XxDv8cQgLWNTwbmrYhZyjFAdEvAGjJb9rfh+ljfd4='">
+        <meta http-equiv="Content-Security-Policy" content="default-src 'self'; style-src 'self' 'unsafe-inline'; img-src *; media-src 'none' ; child-src https://www.google.com; script-src 'self' 'sha256-B8XxDv8cQgLWNTwbmrYhZyjFAdEvAGjJb9rfh+ljfd4=' 'sha256-A9FjnGtxGjGcayHBdO9oPi18v9GCIfg2RMocLGdDgDg='">
 		
 		<link rel="canonical" href="https://www.persona-eg.com" />
         <link rel="shortcut icon" href="Images/logo.ico" type="image/x-icon"/>
