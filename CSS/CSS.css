@@ -45,6 +45,8 @@ html{
     font-family: 'Raleway-bold', sans-serif;
     font-size:22px;
     font-display:swap;
+    scrollbar-color: #4A4A4A rgba(0,0,0,0);
+    scrollbar-width: thin;
 }
 
     body{
