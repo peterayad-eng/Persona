@@ -47,15 +47,7 @@
 		<link rel="stylesheet" href="CSS/CSS.css">
 	</head>
 	<body>
-        <div class='fixedbg'>
-            <div id='fbg' class='fbg relative fullheight fullwidth'>
-                <div class='absolute line'></div>
-                <div id='pointC' class='absolute point activ'></div>
-                <div id='pointS' class='absolute point'></div>
-                <div id='pointA' class='absolute point'></div>
-                <div id='pointF' class='absolute point'></div>
-            </div>
-        </div>
+        <div class='fixedbg'><div id='fbg' class='fbg relative fullheight fullwidth'></div></div>
         <div class='contents'>
 		<header>
             <nav class="navbar navbar-expand-md fixed-top">
