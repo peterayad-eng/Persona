@@ -1,0 +1,472 @@
+2001	Information 	Unknown 	2022-04-21 00:30:04 	Connection established successfully with database 
+2003	Information 	Unknown 	2022-04-21 00:30:04 	The 'SELECT * FROM projects where type = ? ORDER BY orderN' query executed successfully 
+2001	Information 	Unknown 	2022-04-21 00:33:14 	Connection established successfully with database 
+2003	Information 	Unknown 	2022-04-21 00:33:14 	The 'SELECT * FROM projects where type = ? ORDER BY orderN' query executed successfully 
+2001	Information 	Unknown 	2022-04-21 00:38:29 	Connection established successfully with database 
+2003	Information 	Unknown 	2022-04-21 00:38:29 	The 'SELECT * FROM projects where type = ? ORDER BY orderN' query executed successfully 
+2001	Information 	Unknown 	2022-04-21 00:40:42 	Connection established successfully with database 
+2003	Information 	Unknown 	2022-04-21 00:40:42 	The 'SELECT * FROM projects where type = ? ORDER BY orderN' query executed successfully 
+2001	Information 	Unknown 	2022-04-21 00:42:23 	Connection established successfully with database 
+2003	Information 	Unknown 	2022-04-21 00:42:23 	The 'SELECT * FROM projects where type = ? ORDER BY orderN' query executed successfully 
+2001	Information 	Unknown 	2022-04-21 00:58:42 	Connection established successfully with database 
+2003	Information 	Unknown 	2022-04-21 00:58:42 	The 'SELECT * FROM projects where type = ? ORDER BY orderN' query executed successfully 
+2001	Information 	Unknown 	2022-04-21 00:59:57 	Connection established successfully with database 
+2003	Information 	Unknown 	2022-04-21 00:59:57 	The 'SELECT * FROM projects where type = ? ORDER BY orderN' query executed successfully 
+2001	Information 	Unknown 	2022-04-21 01:02:07 	Connection established successfully with database 
+2003	Information 	Unknown 	2022-04-21 01:02:07 	The 'SELECT * FROM projects where type = ? ORDER BY orderN' query executed successfully 
+2001	Information 	Unknown 	2022-04-21 01:02:31 	Connection established successfully with database 
+2003	Information 	Unknown 	2022-04-21 01:02:31 	The 'SELECT * FROM projects where type = ? ORDER BY orderN' query executed successfully 
+2001	Information 	Unknown 	2022-04-21 01:08:47 	Connection established successfully with database 
+2003	Information 	Unknown 	2022-04-21 01:08:47 	The 'SELECT * FROM projects where type = ? ORDER BY orderN' query executed successfully 
+2001	Information 	Unknown 	2022-04-21 01:09:32 	Connection established successfully with database 
+2003	Information 	Unknown 	2022-04-21 01:09:32 	The 'SELECT * FROM projects where type = ? ORDER BY orderN' query executed successfully 
+2001	Information 	Unknown 	2022-04-21 01:11:30 	Connection established successfully with database 
+2003	Information 	Unknown 	2022-04-21 01:11:30 	The 'SELECT * FROM projects where type = ? ORDER BY orderN' query executed successfully 
+2001	Information 	Unknown 	2022-04-21 01:15:17 	Connection established successfully with database 
+2003	Information 	Unknown 	2022-04-21 01:15:17 	The 'SELECT * FROM projects where type = ? ORDER BY orderN' query executed successfully 
+2001	Information 	Unknown 	2022-04-21 01:18:16 	Connection established successfully with database 
+2003	Information 	Unknown 	2022-04-21 01:18:16 	The 'SELECT * FROM projects where type = ? ORDER BY orderN' query executed successfully 
+2001	Information 	Unknown 	2022-04-21 01:21:08 	Connection established successfully with database 
+2003	Information 	Unknown 	2022-04-21 01:21:08 	The 'SELECT * FROM projects where type = ? ORDER BY orderN' query executed successfully 
+2001	Information 	Unknown 	2022-04-21 01:22:17 	Connection established successfully with database 
+2003	Information 	Unknown 	2022-04-21 01:22:17 	The 'SELECT * FROM projects where type = ? ORDER BY orderN' query executed successfully 
+2001	Information 	Unknown 	2022-04-21 01:23:54 	Connection established successfully with database 
+2003	Information 	Unknown 	2022-04-21 01:23:54 	The 'SELECT * FROM projects where type = ? ORDER BY orderN' query executed successfully 
+2001	Information 	Unknown 	2022-04-21 01:25:21 	Connection established successfully with database 
+2003	Information 	Unknown 	2022-04-21 01:25:21 	The 'SELECT * FROM projects where type = ? ORDER BY orderN' query executed successfully 
+2001	Information 	Unknown 	2022-04-21 01:40:27 	Connection established successfully with database 
+2003	Information 	Unknown 	2022-04-21 01:40:27 	The 'SELECT * FROM projects where type = ? ORDER BY orderN' query executed successfully 
+2001	Information 	Unknown 	2022-04-21 22:58:27 	Connection established successfully with database 
+2003	Information 	Unknown 	2022-04-21 22:58:28 	The 'SELECT * FROM projects where type = ? ORDER BY orderN' query executed successfully 
+2001	Information 	Unknown 	2022-04-22 11:25:11 	Connection established successfully with database 
+2003	Information 	Unknown 	2022-04-22 11:25:11 	The 'SELECT * FROM projects where type = ? ORDER BY orderN' query executed successfully 
+2001	Information 	Unknown 	2022-04-22 11:28:18 	Connection established successfully with database 
+2003	Information 	Unknown 	2022-04-22 11:28:18 	The 'SELECT * FROM projects where type = ? ORDER BY orderN' query executed successfully 
+2001	Information 	Unknown 	2022-04-22 11:46:55 	Connection established successfully with database 
+2003	Information 	Unknown 	2022-04-22 11:46:55 	The 'SELECT * FROM projects where type = ? ORDER BY orderN' query executed successfully 
+2001	Information 	Unknown 	2022-04-22 11:50:24 	Connection established successfully with database 
+2003	Information 	Unknown 	2022-04-22 11:50:24 	The 'SELECT * FROM projects where type = ? ORDER BY orderN' query executed successfully 
+2001	Information 	Unknown 	2022-04-22 13:09:25 	Connection established successfully with database 
+2003	Information 	Unknown 	2022-04-22 13:09:25 	The 'SELECT * FROM projects where type = ? ORDER BY orderN' query executed successfully 
+2001	Information 	Unknown 	2022-04-22 13:10:46 	Connection established successfully with database 
+2003	Information 	Unknown 	2022-04-22 13:10:46 	The 'SELECT * FROM projects where type = ? ORDER BY orderN' query executed successfully 
+2001	Information 	Unknown 	2022-04-22 13:12:42 	Connection established successfully with database 
+2003	Information 	Unknown 	2022-04-22 13:12:42 	The 'SELECT * FROM projects where type = ? ORDER BY orderN' query executed successfully 
+2001	Information 	Unknown 	2022-04-22 13:14:00 	Connection established successfully with database 
+2003	Information 	Unknown 	2022-04-22 13:14:00 	The 'SELECT * FROM projects where type = ? ORDER BY orderN' query executed successfully 
+2001	Information 	Unknown 	2022-04-22 13:15:28 	Connection established successfully with database 
+2003	Information 	Unknown 	2022-04-22 13:15:28 	The 'SELECT * FROM projects where type = ? ORDER BY orderN' query executed successfully 
+2001	Information 	Unknown 	2022-04-22 13:16:20 	Connection established successfully with database 
+2003	Information 	Unknown 	2022-04-22 13:16:20 	The 'SELECT * FROM projects where type = ? ORDER BY orderN' query executed successfully 
+2001	Information 	Unknown 	2022-04-22 13:17:31 	Connection established successfully with database 
+2003	Information 	Unknown 	2022-04-22 13:17:31 	The 'SELECT * FROM projects where type = ? ORDER BY orderN' query executed successfully 
+2001	Information 	Unknown 	2022-04-22 13:19:11 	Connection established successfully with database 
+2003	Information 	Unknown 	2022-04-22 13:19:11 	The 'SELECT * FROM projects where type = ? ORDER BY orderN' query executed successfully 
+2001	Information 	Unknown 	2022-04-22 13:27:49 	Connection established successfully with database 
+2003	Information 	Unknown 	2022-04-22 13:27:49 	The 'SELECT * FROM projects where type = ? ORDER BY orderN' query executed successfully 
+2001	Information 	Unknown 	2022-04-22 13:29:42 	Connection established successfully with database 
+2003	Information 	Unknown 	2022-04-22 13:29:42 	The 'SELECT * FROM projects where type = ? ORDER BY orderN' query executed successfully 
+2001	Information 	Unknown 	2022-04-22 13:42:23 	Connection established successfully with database 
+2003	Information 	Unknown 	2022-04-22 13:42:23 	The 'SELECT * FROM projects where type = ? ORDER BY orderN' query executed successfully 
+2001	Information 	Unknown 	2022-04-22 13:43:46 	Connection established successfully with database 
+2003	Information 	Unknown 	2022-04-22 13:43:46 	The 'SELECT * FROM projects where type = ? ORDER BY orderN' query executed successfully 
+2001	Information 	Unknown 	2022-04-22 13:44:29 	Connection established successfully with database 
+2003	Information 	Unknown 	2022-04-22 13:44:29 	The 'SELECT * FROM projects where type = ? ORDER BY orderN' query executed successfully 
+2001	Information 	Unknown 	2022-04-22 13:45:46 	Connection established successfully with database 
+2003	Information 	Unknown 	2022-04-22 13:45:46 	The 'SELECT * FROM projects where type = ? ORDER BY orderN' query executed successfully 
+2001	Information 	Unknown 	2022-04-22 13:46:08 	Connection established successfully with database 
+2003	Information 	Unknown 	2022-04-22 13:46:08 	The 'SELECT * FROM projects where type = ? ORDER BY orderN' query executed successfully 
+2001	Information 	Unknown 	2022-04-22 13:46:37 	Connection established successfully with database 
+2003	Information 	Unknown 	2022-04-22 13:46:37 	The 'SELECT * FROM projects where type = ? ORDER BY orderN' query executed successfully 
+2001	Information 	Unknown 	2022-04-22 13:47:04 	Connection established successfully with database 
+2003	Information 	Unknown 	2022-04-22 13:47:04 	The 'SELECT * FROM projects where type = ? ORDER BY orderN' query executed successfully 
+2001	Information 	Unknown 	2022-04-22 13:53:40 	Connection established successfully with database 
+2003	Information 	Unknown 	2022-04-22 13:53:40 	The 'SELECT * FROM projects where type = ? ORDER BY orderN' query executed successfully 
+2001	Information 	Unknown 	2022-04-22 13:53:45 	Connection established successfully with database 
+2003	Information 	Unknown 	2022-04-22 13:53:45 	The 'SELECT * FROM projects where type = ? ORDER BY orderN' query executed successfully 
+2001	Information 	Unknown 	2022-04-22 13:54:32 	Connection established successfully with database 
+2003	Information 	Unknown 	2022-04-22 13:54:32 	The 'SELECT * FROM projects where type = ? ORDER BY orderN' query executed successfully 
+2001	Information 	Unknown 	2022-04-22 13:55:15 	Connection established successfully with database 
+2003	Information 	Unknown 	2022-04-22 13:55:15 	The 'SELECT * FROM projects where type = ? ORDER BY orderN' query executed successfully 
+2001	Information 	Unknown 	2022-04-22 13:55:19 	Connection established successfully with database 
+2003	Information 	Unknown 	2022-04-22 13:55:19 	The 'SELECT * FROM projects where type = ? ORDER BY orderN' query executed successfully 
+2001	Information 	Unknown 	2022-04-22 13:57:31 	Connection established successfully with database 
+2003	Information 	Unknown 	2022-04-22 13:57:31 	The 'SELECT * FROM projects where type = ? ORDER BY orderN' query executed successfully 
+2001	Information 	Unknown 	2022-04-22 13:57:42 	Connection established successfully with database 
+2003	Information 	Unknown 	2022-04-22 13:57:42 	The 'SELECT * FROM projects where type = ? ORDER BY orderN' query executed successfully 
+2001	Information 	Unknown 	2022-04-22 13:57:58 	Connection established successfully with database 
+2003	Information 	Unknown 	2022-04-22 13:57:58 	The 'SELECT * FROM projects where type = ? ORDER BY orderN' query executed successfully 
+2001	Information 	Unknown 	2022-04-22 13:58:29 	Connection established successfully with database 
+2003	Information 	Unknown 	2022-04-22 13:58:29 	The 'SELECT * FROM projects where type = ? ORDER BY orderN' query executed successfully 
+2001	Information 	Unknown 	2022-04-22 13:59:11 	Connection established successfully with database 
+2003	Information 	Unknown 	2022-04-22 13:59:11 	The 'SELECT * FROM projects where type = ? ORDER BY orderN' query executed successfully 
+2001	Information 	Unknown 	2022-04-22 14:07:41 	Connection established successfully with database 
+2003	Information 	Unknown 	2022-04-22 14:07:41 	The 'SELECT * FROM projects where type = ? ORDER BY orderN' query executed successfully 
+2001	Information 	Unknown 	2022-04-22 14:10:11 	Connection established successfully with database 
+2003	Information 	Unknown 	2022-04-22 14:10:11 	The 'SELECT * FROM projects where type = ? ORDER BY orderN' query executed successfully 
+2001	Information 	Unknown 	2022-04-22 14:21:12 	Connection established successfully with database 
+2003	Information 	Unknown 	2022-04-22 14:21:12 	The 'SELECT * FROM projects where type = ? ORDER BY orderN' query executed successfully 
+2001	Information 	Unknown 	2022-04-22 14:22:04 	Connection established successfully with database 
+2003	Information 	Unknown 	2022-04-22 14:22:04 	The 'SELECT * FROM projects where type = ? ORDER BY orderN' query executed successfully 
+2001	Information 	Unknown 	2022-04-22 14:22:04 	Connection established successfully with database 
+2003	Information 	Unknown 	2022-04-22 14:22:04 	The 'SELECT * FROM projects where type = ? ORDER BY orderN' query executed successfully 
+2001	Information 	Unknown 	2022-04-22 14:23:56 	Connection established successfully with database 
+2003	Information 	Unknown 	2022-04-22 14:23:56 	The 'SELECT * FROM projects where type = ? ORDER BY orderN' query executed successfully 
+2001	Information 	Unknown 	2022-04-22 17:49:11 	Connection established successfully with database 
+2003	Information 	Unknown 	2022-04-22 17:49:12 	The 'SELECT * FROM projects where type = ? ORDER BY orderN' query executed successfully 
+2001	Information 	Unknown 	2022-04-22 18:24:33 	Connection established successfully with database 
+2003	Information 	Unknown 	2022-04-22 18:24:33 	The 'SELECT * FROM projects where type = ? ORDER BY orderN' query executed successfully 
+2001	Information 	Unknown 	2022-04-22 19:00:36 	Connection established successfully with database 
+2003	Information 	Unknown 	2022-04-22 19:00:36 	The 'SELECT * FROM projects where type = ? ORDER BY orderN' query executed successfully 
+2001	Information 	Unknown 	2022-04-22 19:07:51 	Connection established successfully with database 
+2003	Information 	Unknown 	2022-04-22 19:07:51 	The 'SELECT * FROM projects where type = ? ORDER BY orderN' query executed successfully 
+2001	Information 	Unknown 	2022-04-22 19:07:56 	Connection established successfully with database 
+2003	Information 	Unknown 	2022-04-22 19:07:56 	The 'SELECT * FROM projects where type = ? ORDER BY orderN' query executed successfully 
+2001	Information 	Unknown 	2022-04-22 19:09:53 	Connection established successfully with database 
+2003	Information 	Unknown 	2022-04-22 19:09:53 	The 'SELECT * FROM projects where type = ? ORDER BY orderN' query executed successfully 
+2001	Information 	Unknown 	2022-04-22 19:10:17 	Connection established successfully with database 
+2003	Information 	Unknown 	2022-04-22 19:10:17 	The 'SELECT * FROM projects where type = ? ORDER BY orderN' query executed successfully 
+2001	Information 	Unknown 	2022-04-22 19:11:32 	Connection established successfully with database 
+2003	Information 	Unknown 	2022-04-22 19:11:32 	The 'SELECT * FROM projects where type = ? ORDER BY orderN' query executed successfully 
+2001	Information 	Unknown 	2022-04-22 19:11:36 	Connection established successfully with database 
+2003	Information 	Unknown 	2022-04-22 19:11:36 	The 'SELECT * FROM projects where type = ? ORDER BY orderN' query executed successfully 
+2001	Information 	Unknown 	2022-04-22 19:12:25 	Connection established successfully with database 
+2003	Information 	Unknown 	2022-04-22 19:12:25 	The 'SELECT * FROM projects where type = ? ORDER BY orderN' query executed successfully 
+2001	Information 	Unknown 	2022-04-22 19:13:00 	Connection established successfully with database 
+2003	Information 	Unknown 	2022-04-22 19:13:00 	The 'SELECT * FROM projects where type = ? ORDER BY orderN' query executed successfully 
+2001	Information 	Unknown 	2022-04-22 19:21:35 	Connection established successfully with database 
+2003	Information 	Unknown 	2022-04-22 19:21:35 	The 'SELECT * FROM projects where type = ? ORDER BY orderN' query executed successfully 
+2001	Information 	Unknown 	2022-04-22 19:26:09 	Connection established successfully with database 
+2003	Information 	Unknown 	2022-04-22 19:26:09 	The 'SELECT * FROM projects where type = ? ORDER BY orderN' query executed successfully 
+2001	Information 	Unknown 	2022-04-22 19:28:04 	Connection established successfully with database 
+2003	Information 	Unknown 	2022-04-22 19:28:04 	The 'SELECT * FROM projects where type = ? ORDER BY orderN' query executed successfully 
+2001	Information 	Unknown 	2022-04-22 19:28:40 	Connection established successfully with database 
+2003	Information 	Unknown 	2022-04-22 19:28:40 	The 'SELECT * FROM projects where type = ? ORDER BY orderN' query executed successfully 
+2001	Information 	Unknown 	2022-04-22 19:29:09 	Connection established successfully with database 
+2003	Information 	Unknown 	2022-04-22 19:29:09 	The 'SELECT * FROM projects where type = ? ORDER BY orderN' query executed successfully 
+2001	Information 	Unknown 	2022-04-22 19:29:37 	Connection established successfully with database 
+2003	Information 	Unknown 	2022-04-22 19:29:37 	The 'SELECT * FROM projects where type = ? ORDER BY orderN' query executed successfully 
+2001	Information 	Unknown 	2022-04-22 19:31:00 	Connection established successfully with database 
+2003	Information 	Unknown 	2022-04-22 19:31:00 	The 'SELECT * FROM projects where type = ? ORDER BY orderN' query executed successfully 
+2001	Information 	Unknown 	2022-04-22 19:31:25 	Connection established successfully with database 
+2003	Information 	Unknown 	2022-04-22 19:31:25 	The 'SELECT * FROM projects where type = ? ORDER BY orderN' query executed successfully 
+2001	Information 	Unknown 	2022-04-22 19:33:17 	Connection established successfully with database 
+2003	Information 	Unknown 	2022-04-22 19:33:17 	The 'SELECT * FROM projects where type = ? ORDER BY orderN' query executed successfully 
+2001	Information 	Unknown 	2022-04-22 19:33:41 	Connection established successfully with database 
+2003	Information 	Unknown 	2022-04-22 19:33:41 	The 'SELECT * FROM projects where type = ? ORDER BY orderN' query executed successfully 
+2001	Information 	Unknown 	2022-04-22 19:35:25 	Connection established successfully with database 
+2003	Information 	Unknown 	2022-04-22 19:35:25 	The 'SELECT * FROM projects where type = ? ORDER BY orderN' query executed successfully 
+2001	Information 	Unknown 	2022-04-22 19:35:44 	Connection established successfully with database 
+2003	Information 	Unknown 	2022-04-22 19:35:44 	The 'SELECT * FROM projects where type = ? ORDER BY orderN' query executed successfully 
+2001	Information 	Unknown 	2022-04-22 19:36:08 	Connection established successfully with database 
+2003	Information 	Unknown 	2022-04-22 19:36:08 	The 'SELECT * FROM projects where type = ? ORDER BY orderN' query executed successfully 
+2001	Information 	Unknown 	2022-04-22 19:36:42 	Connection established successfully with database 
+2003	Information 	Unknown 	2022-04-22 19:36:42 	The 'SELECT * FROM projects where type = ? ORDER BY orderN' query executed successfully 
+2001	Information 	Unknown 	2022-04-22 19:37:22 	Connection established successfully with database 
+2003	Information 	Unknown 	2022-04-22 19:37:22 	The 'SELECT * FROM projects where type = ? ORDER BY orderN' query executed successfully 
+2001	Information 	Unknown 	2022-04-22 19:38:19 	Connection established successfully with database 
+2003	Information 	Unknown 	2022-04-22 19:38:19 	The 'SELECT * FROM projects where type = ? ORDER BY orderN' query executed successfully 
+2001	Information 	Unknown 	2022-04-22 19:48:45 	Connection established successfully with database 
+2003	Information 	Unknown 	2022-04-22 19:48:45 	The 'SELECT * FROM projects where type = ? ORDER BY orderN' query executed successfully 
+2001	Information 	Unknown 	2022-04-22 19:50:14 	Connection established successfully with database 
+2003	Information 	Unknown 	2022-04-22 19:50:14 	The 'SELECT * FROM projects where type = ? ORDER BY orderN' query executed successfully 
+2001	Information 	Unknown 	2022-04-22 19:50:46 	Connection established successfully with database 
+2003	Information 	Unknown 	2022-04-22 19:50:46 	The 'SELECT * FROM projects where type = ? ORDER BY orderN' query executed successfully 
+2001	Information 	Unknown 	2022-04-22 19:51:14 	Connection established successfully with database 
+2003	Information 	Unknown 	2022-04-22 19:51:14 	The 'SELECT * FROM projects where type = ? ORDER BY orderN' query executed successfully 
+2001	Information 	Unknown 	2022-04-22 19:52:11 	Connection established successfully with database 
+2003	Information 	Unknown 	2022-04-22 19:52:11 	The 'SELECT * FROM projects where type = ? ORDER BY orderN' query executed successfully 
+2001	Information 	Unknown 	2022-04-22 19:59:36 	Connection established successfully with database 
+2003	Information 	Unknown 	2022-04-22 19:59:36 	The 'SELECT * FROM projects where type = ? ORDER BY orderN' query executed successfully 
+2001	Information 	Unknown 	2022-04-22 19:59:44 	Connection established successfully with database 
+2003	Information 	Unknown 	2022-04-22 19:59:44 	The 'SELECT * FROM projects where type = ? ORDER BY orderN' query executed successfully 
+2001	Information 	Unknown 	2022-04-22 20:04:47 	Connection established successfully with database 
+2003	Information 	Unknown 	2022-04-22 20:04:47 	The 'SELECT * FROM projects where type = ? ORDER BY orderN' query executed successfully 
+2001	Information 	Unknown 	2022-04-22 20:05:30 	Connection established successfully with database 
+2003	Information 	Unknown 	2022-04-22 20:05:30 	The 'SELECT * FROM projects where type = ? ORDER BY orderN' query executed successfully 
+2001	Information 	Unknown 	2022-04-22 20:07:37 	Connection established successfully with database 
+2003	Information 	Unknown 	2022-04-22 20:07:37 	The 'SELECT * FROM projects where type = ? ORDER BY orderN' query executed successfully 
+2001	Information 	Unknown 	2022-04-22 20:11:22 	Connection established successfully with database 
+2003	Information 	Unknown 	2022-04-22 20:11:22 	The 'SELECT * FROM projects where type = ? ORDER BY orderN' query executed successfully 
+2001	Information 	Unknown 	2022-04-22 20:13:26 	Connection established successfully with database 
+2003	Information 	Unknown 	2022-04-22 20:13:26 	The 'SELECT * FROM projects where type = ? ORDER BY orderN' query executed successfully 
+2001	Information 	Unknown 	2022-04-22 20:17:12 	Connection established successfully with database 
+2003	Information 	Unknown 	2022-04-22 20:17:12 	The 'SELECT * FROM projects where type = ? ORDER BY orderN' query executed successfully 
+2001	Information 	Unknown 	2022-04-22 20:22:54 	Connection established successfully with database 
+2003	Information 	Unknown 	2022-04-22 20:22:54 	The 'SELECT * FROM projects where type = ? ORDER BY orderN' query executed successfully 
+2001	Information 	Unknown 	2022-04-22 20:25:23 	Connection established successfully with database 
+2003	Information 	Unknown 	2022-04-22 20:25:23 	The 'SELECT * FROM projects where type = ? ORDER BY orderN' query executed successfully 
+2001	Information 	Unknown 	2022-04-22 22:10:26 	Connection established successfully with database 
+2003	Information 	Unknown 	2022-04-22 22:10:26 	The 'SELECT * FROM projects where type = ? ORDER BY orderN' query executed successfully 
+2001	Information 	Unknown 	2022-04-22 22:13:36 	Connection established successfully with database 
+2003	Information 	Unknown 	2022-04-22 22:13:36 	The 'SELECT * FROM projects where type = ? ORDER BY orderN' query executed successfully 
+2001	Information 	Unknown 	2022-04-22 22:13:44 	Connection established successfully with database 
+2003	Information 	Unknown 	2022-04-22 22:13:44 	The 'SELECT * FROM projects where type = ? ORDER BY orderN' query executed successfully 
+2001	Information 	Unknown 	2022-04-22 22:14:12 	Connection established successfully with database 
+2003	Information 	Unknown 	2022-04-22 22:14:12 	The 'SELECT * FROM projects where type = ? ORDER BY orderN' query executed successfully 
+2001	Information 	Unknown 	2022-04-22 22:14:38 	Connection established successfully with database 
+2003	Information 	Unknown 	2022-04-22 22:14:38 	The 'SELECT * FROM projects where type = ? ORDER BY orderN' query executed successfully 
+2001	Information 	Unknown 	2022-04-22 22:15:12 	Connection established successfully with database 
+2003	Information 	Unknown 	2022-04-22 22:15:12 	The 'SELECT * FROM projects where type = ? ORDER BY orderN' query executed successfully 
+2001	Information 	Unknown 	2022-04-22 22:16:42 	Connection established successfully with database 
+2003	Information 	Unknown 	2022-04-22 22:16:42 	The 'SELECT * FROM projects where type = ? ORDER BY orderN' query executed successfully 
+2001	Information 	Unknown 	2022-04-22 22:17:52 	Connection established successfully with database 
+2003	Information 	Unknown 	2022-04-22 22:17:52 	The 'SELECT * FROM projects where type = ? ORDER BY orderN' query executed successfully 
+2001	Information 	Unknown 	2022-04-22 22:20:21 	Connection established successfully with database 
+2003	Information 	Unknown 	2022-04-22 22:20:21 	The 'SELECT * FROM projects where type = ? ORDER BY orderN' query executed successfully 
+2001	Information 	Unknown 	2022-04-22 22:21:43 	Connection established successfully with database 
+2003	Information 	Unknown 	2022-04-22 22:21:43 	The 'SELECT * FROM projects where type = ? ORDER BY orderN' query executed successfully 
+2001	Information 	Unknown 	2022-04-22 22:23:32 	Connection established successfully with database 
+2003	Information 	Unknown 	2022-04-22 22:23:32 	The 'SELECT * FROM projects where type = ? ORDER BY orderN' query executed successfully 
+2001	Information 	Unknown 	2022-04-22 22:23:38 	Connection established successfully with database 
+2003	Information 	Unknown 	2022-04-22 22:23:38 	The 'SELECT * FROM projects where type = ? ORDER BY orderN' query executed successfully 
+2001	Information 	Unknown 	2022-04-22 22:23:45 	Connection established successfully with database 
+2003	Information 	Unknown 	2022-04-22 22:23:45 	The 'SELECT * FROM projects where type = ? ORDER BY orderN' query executed successfully 
+2001	Information 	Unknown 	2022-04-22 22:25:21 	Connection established successfully with database 
+2003	Information 	Unknown 	2022-04-22 22:25:21 	The 'SELECT * FROM projects where type = ? ORDER BY orderN' query executed successfully 
+2001	Information 	Unknown 	2022-04-22 22:25:26 	Connection established successfully with database 
+2003	Information 	Unknown 	2022-04-22 22:25:26 	The 'SELECT * FROM projects where type = ? ORDER BY orderN' query executed successfully 
+2001	Information 	Unknown 	2022-04-22 22:25:57 	Connection established successfully with database 
+2003	Information 	Unknown 	2022-04-22 22:25:57 	The 'SELECT * FROM projects where type = ? ORDER BY orderN' query executed successfully 
+2001	Information 	Unknown 	2022-04-22 22:26:18 	Connection established successfully with database 
+2003	Information 	Unknown 	2022-04-22 22:26:18 	The 'SELECT * FROM projects where type = ? ORDER BY orderN' query executed successfully 
+2001	Information 	Unknown 	2022-04-22 22:27:15 	Connection established successfully with database 
+2003	Information 	Unknown 	2022-04-22 22:27:15 	The 'SELECT * FROM projects where type = ? ORDER BY orderN' query executed successfully 
+2001	Information 	Unknown 	2022-04-22 23:11:37 	Connection established successfully with database 
+2003	Information 	Unknown 	2022-04-22 23:11:37 	The 'SELECT * FROM projects where type = ? ORDER BY orderN' query executed successfully 
+2001	Information 	Unknown 	2022-04-22 23:12:28 	Connection established successfully with database 
+2003	Information 	Unknown 	2022-04-22 23:12:28 	The 'SELECT * FROM projects where type = ? ORDER BY orderN' query executed successfully 
+2001	Information 	Unknown 	2022-04-22 23:12:43 	Connection established successfully with database 
+2003	Information 	Unknown 	2022-04-22 23:12:43 	The 'SELECT * FROM projects where type = ? ORDER BY orderN' query executed successfully 
+2001	Information 	Unknown 	2022-04-22 23:18:24 	Connection established successfully with database 
+2003	Information 	Unknown 	2022-04-22 23:18:24 	The 'SELECT * FROM projects where type = ? ORDER BY orderN' query executed successfully 
+2001	Information 	Unknown 	2022-04-22 23:19:05 	Connection established successfully with database 
+2003	Information 	Unknown 	2022-04-22 23:19:05 	The 'SELECT * FROM projects where type = ? ORDER BY orderN' query executed successfully 
+2001	Information 	Unknown 	2022-04-22 23:20:40 	Connection established successfully with database 
+2003	Information 	Unknown 	2022-04-22 23:20:40 	The 'SELECT * FROM projects where type = ? ORDER BY orderN' query executed successfully 
+2001	Information 	Unknown 	2022-04-22 23:21:52 	Connection established successfully with database 
+2003	Information 	Unknown 	2022-04-22 23:21:52 	The 'SELECT * FROM projects where type = ? ORDER BY orderN' query executed successfully 
+2001	Information 	Unknown 	2022-04-22 23:31:29 	Connection established successfully with database 
+2003	Information 	Unknown 	2022-04-22 23:31:29 	The 'SELECT * FROM projects where type = ? ORDER BY orderN' query executed successfully 
+2001	Information 	Unknown 	2022-04-22 23:35:46 	Connection established successfully with database 
+2003	Information 	Unknown 	2022-04-22 23:35:46 	The 'SELECT * FROM projects where type = ? ORDER BY orderN' query executed successfully 
+2001	Information 	Unknown 	2022-04-22 23:44:03 	Connection established successfully with database 
+2003	Information 	Unknown 	2022-04-22 23:44:03 	The 'SELECT * FROM projects where type = ? ORDER BY orderN' query executed successfully 
+2001	Information 	Unknown 	2022-04-22 23:49:57 	Connection established successfully with database 
+2003	Information 	Unknown 	2022-04-22 23:49:57 	The 'SELECT * FROM projects where type = ? ORDER BY orderN' query executed successfully 
+2001	Information 	Unknown 	2022-04-22 23:53:24 	Connection established successfully with database 
+2003	Information 	Unknown 	2022-04-22 23:53:24 	The 'SELECT * FROM projects where type = ? ORDER BY orderN' query executed successfully 
+2001	Information 	Unknown 	2022-04-22 23:55:25 	Connection established successfully with database 
+2003	Information 	Unknown 	2022-04-22 23:55:25 	The 'SELECT * FROM projects where type = ? ORDER BY orderN' query executed successfully 
+2001	Information 	Unknown 	2022-04-22 23:58:57 	Connection established successfully with database 
+2003	Information 	Unknown 	2022-04-22 23:58:57 	The 'SELECT * FROM projects where type = ? ORDER BY orderN' query executed successfully 
+2001	Information 	Unknown 	2022-04-22 23:59:51 	Connection established successfully with database 
+2003	Information 	Unknown 	2022-04-22 23:59:51 	The 'SELECT * FROM projects where type = ? ORDER BY orderN' query executed successfully 
+2001	Information 	Unknown 	2022-04-23 00:03:57 	Connection established successfully with database 
+2003	Information 	Unknown 	2022-04-23 00:03:57 	The 'SELECT * FROM projects where type = ? ORDER BY orderN' query executed successfully 
+2001	Information 	Unknown 	2022-04-23 01:03:48 	Connection established successfully with database 
+2003	Information 	Unknown 	2022-04-23 01:03:49 	The 'SELECT * FROM projects where type = ? ORDER BY orderN' query executed successfully 
+2001	Information 	Unknown 	2022-04-23 02:45:22 	Connection established successfully with database 
+2003	Information 	Unknown 	2022-04-23 02:45:22 	The 'SELECT * FROM projects where type = ? ORDER BY orderN' query executed successfully 
+2001	Information 	Unknown 	2022-04-23 02:45:27 	Connection established successfully with database 
+2003	Information 	Unknown 	2022-04-23 02:45:27 	The 'SELECT * FROM projects where type = ? ORDER BY orderN' query executed successfully 
+2001	Information 	Unknown 	2022-04-23 02:46:52 	Connection established successfully with database 
+2003	Information 	Unknown 	2022-04-23 02:46:52 	The 'SELECT * FROM projects where type = ? ORDER BY orderN' query executed successfully 
+2001	Information 	Unknown 	2022-04-23 02:46:59 	Connection established successfully with database 
+2003	Information 	Unknown 	2022-04-23 02:46:59 	The 'SELECT * FROM projects where type = ? ORDER BY orderN' query executed successfully 
+2001	Information 	Unknown 	2022-04-23 02:47:32 	Connection established successfully with database 
+2003	Information 	Unknown 	2022-04-23 02:47:32 	The 'SELECT * FROM projects where type = ? ORDER BY orderN' query executed successfully 
+2001	Information 	Unknown 	2022-04-23 02:54:29 	Connection established successfully with database 
+2003	Information 	Unknown 	2022-04-23 02:54:29 	The 'SELECT * FROM projects where type = ? ORDER BY orderN' query executed successfully 
+2001	Information 	Unknown 	2022-04-23 02:55:20 	Connection established successfully with database 
+2003	Information 	Unknown 	2022-04-23 02:55:20 	The 'SELECT * FROM projects where type = ? ORDER BY orderN' query executed successfully 
+2001	Information 	Unknown 	2022-04-23 02:57:27 	Connection established successfully with database 
+2003	Information 	Unknown 	2022-04-23 02:57:27 	The 'SELECT * FROM projects where type = ? ORDER BY orderN' query executed successfully 
+2001	Information 	Unknown 	2022-04-23 03:06:45 	Connection established successfully with database 
+2003	Information 	Unknown 	2022-04-23 03:06:45 	The 'SELECT * FROM projects where type = ? ORDER BY orderN' query executed successfully 
+2001	Information 	Unknown 	2022-04-23 03:08:02 	Connection established successfully with database 
+2003	Information 	Unknown 	2022-04-23 03:08:02 	The 'SELECT * FROM projects where type = ? ORDER BY orderN' query executed successfully 
+2001	Information 	Unknown 	2022-04-23 03:59:46 	Connection established successfully with database 
+2003	Information 	Unknown 	2022-04-23 03:59:46 	The 'SELECT * FROM projects where type = ? ORDER BY orderN' query executed successfully 
+2001	Information 	Unknown 	2022-04-23 04:02:35 	Connection established successfully with database 
+2003	Information 	Unknown 	2022-04-23 04:02:35 	The 'SELECT * FROM projects where type = ? ORDER BY orderN' query executed successfully 
+2001	Information 	Unknown 	2022-04-23 04:03:59 	Connection established successfully with database 
+2003	Information 	Unknown 	2022-04-23 04:03:59 	The 'SELECT * FROM projects where type = ? ORDER BY orderN' query executed successfully 
+2001	Information 	Unknown 	2022-04-23 04:04:24 	Connection established successfully with database 
+2003	Information 	Unknown 	2022-04-23 04:04:24 	The 'SELECT * FROM projects where type = ? ORDER BY orderN' query executed successfully 
+2001	Information 	Unknown 	2022-04-23 04:05:06 	Connection established successfully with database 
+2003	Information 	Unknown 	2022-04-23 04:05:06 	The 'SELECT * FROM projects where type = ? ORDER BY orderN' query executed successfully 
+2001	Information 	Unknown 	2022-04-23 11:04:53 	Connection established successfully with database 
+2003	Information 	Unknown 	2022-04-23 11:04:54 	The 'SELECT * FROM projects where type = ? ORDER BY orderN' query executed successfully 
+2001	Information 	Unknown 	2022-04-23 11:07:38 	Connection established successfully with database 
+2003	Information 	Unknown 	2022-04-23 11:07:38 	The 'SELECT * FROM projects where type = ? ORDER BY orderN' query executed successfully 
+2001	Information 	Unknown 	2022-04-23 11:09:50 	Connection established successfully with database 
+2003	Information 	Unknown 	2022-04-23 11:09:50 	The 'SELECT * FROM projects where type = ? ORDER BY orderN' query executed successfully 
+2001	Information 	Unknown 	2022-04-23 11:11:32 	Connection established successfully with database 
+2003	Information 	Unknown 	2022-04-23 11:11:32 	The 'SELECT * FROM projects where type = ? ORDER BY orderN' query executed successfully 
+2001	Information 	Unknown 	2022-04-23 11:11:51 	Connection established successfully with database 
+2003	Information 	Unknown 	2022-04-23 11:11:51 	The 'SELECT * FROM projects where type = ? ORDER BY orderN' query executed successfully 
+2001	Information 	Unknown 	2022-04-23 11:16:40 	Connection established successfully with database 
+2003	Information 	Unknown 	2022-04-23 11:16:40 	The 'SELECT * FROM projects where type = ? ORDER BY orderN' query executed successfully 
+2001	Information 	Unknown 	2022-04-23 11:37:15 	Connection established successfully with database 
+2003	Information 	Unknown 	2022-04-23 11:37:15 	The 'SELECT * FROM projects where type = ? ORDER BY orderN' query executed successfully 
+2001	Information 	Unknown 	2022-04-23 11:52:57 	Connection established successfully with database 
+2003	Information 	Unknown 	2022-04-23 11:52:57 	The 'SELECT * FROM projects where type = ? ORDER BY orderN' query executed successfully 
+2001	Information 	Unknown 	2022-04-23 11:56:49 	Connection established successfully with database 
+2003	Information 	Unknown 	2022-04-23 11:56:49 	The 'SELECT * FROM projects where type = ? ORDER BY orderN' query executed successfully 
+2001	Information 	Unknown 	2022-04-23 11:58:18 	Connection established successfully with database 
+2003	Information 	Unknown 	2022-04-23 11:58:18 	The 'SELECT * FROM projects where type = ? ORDER BY orderN' query executed successfully 
+2001	Information 	Unknown 	2022-04-23 12:00:51 	Connection established successfully with database 
+2003	Information 	Unknown 	2022-04-23 12:00:51 	The 'SELECT * FROM projects where type = ? ORDER BY orderN' query executed successfully 
+2001	Information 	Unknown 	2022-04-23 12:01:34 	Connection established successfully with database 
+2003	Information 	Unknown 	2022-04-23 12:01:34 	The 'SELECT * FROM projects where type = ? ORDER BY orderN' query executed successfully 
+2001	Information 	Unknown 	2022-04-23 12:02:11 	Connection established successfully with database 
+2003	Information 	Unknown 	2022-04-23 12:02:11 	The 'SELECT * FROM projects where type = ? ORDER BY orderN' query executed successfully 
+2001	Information 	Unknown 	2022-04-23 12:04:45 	Connection established successfully with database 
+2003	Information 	Unknown 	2022-04-23 12:04:45 	The 'SELECT * FROM projects where type = ? ORDER BY orderN' query executed successfully 
+2001	Information 	Unknown 	2022-04-23 12:10:06 	Connection established successfully with database 
+2003	Information 	Unknown 	2022-04-23 12:10:06 	The 'SELECT * FROM projects where type = ? ORDER BY orderN' query executed successfully 
+2001	Information 	Unknown 	2022-04-23 12:18:07 	Connection established successfully with database 
+2003	Information 	Unknown 	2022-04-23 12:18:07 	The 'SELECT * FROM projects where type = ? ORDER BY orderN' query executed successfully 
+2001	Information 	Unknown 	2022-04-23 12:20:12 	Connection established successfully with database 
+2003	Information 	Unknown 	2022-04-23 12:20:12 	The 'SELECT * FROM projects where type = ? ORDER BY orderN' query executed successfully 
+2001	Information 	Unknown 	2022-04-23 12:22:11 	Connection established successfully with database 
+2003	Information 	Unknown 	2022-04-23 12:22:11 	The 'SELECT * FROM projects where type = ? ORDER BY orderN' query executed successfully 
+2001	Information 	Unknown 	2022-04-23 12:26:44 	Connection established successfully with database 
+2003	Information 	Unknown 	2022-04-23 12:26:44 	The 'SELECT * FROM projects where type = ? ORDER BY orderN' query executed successfully 
+2001	Information 	Unknown 	2022-04-23 12:27:05 	Connection established successfully with database 
+2003	Information 	Unknown 	2022-04-23 12:27:05 	The 'SELECT * FROM projects where type = ? ORDER BY orderN' query executed successfully 
+2001	Information 	Unknown 	2022-04-23 12:30:17 	Connection established successfully with database 
+2003	Information 	Unknown 	2022-04-23 12:30:17 	The 'SELECT * FROM projects where type = ? ORDER BY orderN' query executed successfully 
+2001	Information 	Unknown 	2022-04-23 12:33:43 	Connection established successfully with database 
+2003	Information 	Unknown 	2022-04-23 12:33:43 	The 'SELECT * FROM projects where type = ? ORDER BY orderN' query executed successfully 
+2001	Information 	Unknown 	2022-04-23 12:34:51 	Connection established successfully with database 
+2003	Information 	Unknown 	2022-04-23 12:34:51 	The 'SELECT * FROM projects where type = ? ORDER BY orderN' query executed successfully 
+2001	Information 	Unknown 	2022-04-23 12:35:15 	Connection established successfully with database 
+2003	Information 	Unknown 	2022-04-23 12:35:15 	The 'SELECT * FROM projects where type = ? ORDER BY orderN' query executed successfully 
+2001	Information 	Unknown 	2022-04-23 12:38:34 	Connection established successfully with database 
+2003	Information 	Unknown 	2022-04-23 12:38:34 	The 'SELECT * FROM projects where type = ? ORDER BY orderN' query executed successfully 
+2001	Information 	Unknown 	2022-04-23 12:41:52 	Connection established successfully with database 
+2003	Information 	Unknown 	2022-04-23 12:41:52 	The 'SELECT * FROM projects where type = ? ORDER BY orderN' query executed successfully 
+2001	Information 	Unknown 	2022-04-23 12:43:34 	Connection established successfully with database 
+2003	Information 	Unknown 	2022-04-23 12:43:34 	The 'SELECT * FROM projects where type = ? ORDER BY orderN' query executed successfully 
+2001	Information 	Unknown 	2022-04-23 12:45:31 	Connection established successfully with database 
+2003	Information 	Unknown 	2022-04-23 12:45:31 	The 'SELECT * FROM projects where type = ? ORDER BY orderN' query executed successfully 
+2001	Information 	Unknown 	2022-04-23 12:46:28 	Connection established successfully with database 
+2003	Information 	Unknown 	2022-04-23 12:46:28 	The 'SELECT * FROM projects where type = ? ORDER BY orderN' query executed successfully 
+2001	Information 	Unknown 	2022-04-23 12:47:48 	Connection established successfully with database 
+2003	Information 	Unknown 	2022-04-23 12:47:48 	The 'SELECT * FROM projects where type = ? ORDER BY orderN' query executed successfully 
+2001	Information 	Unknown 	2022-04-23 12:49:53 	Connection established successfully with database 
+2003	Information 	Unknown 	2022-04-23 12:49:53 	The 'SELECT * FROM projects where type = ? ORDER BY orderN' query executed successfully 
+2001	Information 	Unknown 	2022-04-23 12:50:07 	Connection established successfully with database 
+2003	Information 	Unknown 	2022-04-23 12:50:07 	The 'SELECT * FROM projects where type = ? ORDER BY orderN' query executed successfully 
+2001	Information 	Unknown 	2022-04-23 12:50:37 	Connection established successfully with database 
+2003	Information 	Unknown 	2022-04-23 12:50:37 	The 'SELECT * FROM projects where type = ? ORDER BY orderN' query executed successfully 
+2001	Information 	Unknown 	2022-04-23 12:51:56 	Connection established successfully with database 
+2003	Information 	Unknown 	2022-04-23 12:51:56 	The 'SELECT * FROM projects where type = ? ORDER BY orderN' query executed successfully 
+2001	Information 	Unknown 	2022-04-23 12:52:55 	Connection established successfully with database 
+2003	Information 	Unknown 	2022-04-23 12:52:55 	The 'SELECT * FROM projects where type = ? ORDER BY orderN' query executed successfully 
+2001	Information 	Unknown 	2022-04-23 12:56:39 	Connection established successfully with database 
+2003	Information 	Unknown 	2022-04-23 12:56:39 	The 'SELECT * FROM projects where type = ? ORDER BY orderN' query executed successfully 
+2001	Information 	Unknown 	2022-04-23 12:57:12 	Connection established successfully with database 
+2003	Information 	Unknown 	2022-04-23 12:57:12 	The 'SELECT * FROM projects where type = ? ORDER BY orderN' query executed successfully 
+2001	Information 	Unknown 	2022-04-23 12:57:24 	Connection established successfully with database 
+2003	Information 	Unknown 	2022-04-23 12:57:24 	The 'SELECT * FROM projects where type = ? ORDER BY orderN' query executed successfully 
+2001	Information 	Unknown 	2022-04-23 13:04:20 	Connection established successfully with database 
+2003	Information 	Unknown 	2022-04-23 13:04:20 	The 'SELECT * FROM projects where type = ? ORDER BY orderN' query executed successfully 
+2001	Information 	Unknown 	2022-04-23 13:06:23 	Connection established successfully with database 
+2003	Information 	Unknown 	2022-04-23 13:06:23 	The 'SELECT * FROM projects where type = ? ORDER BY orderN' query executed successfully 
+2001	Information 	Unknown 	2022-04-23 13:10:12 	Connection established successfully with database 
+2003	Information 	Unknown 	2022-04-23 13:10:12 	The 'SELECT * FROM projects where type = ? ORDER BY orderN' query executed successfully 
+2001	Information 	Unknown 	2022-04-23 13:12:27 	Connection established successfully with database 
+2003	Information 	Unknown 	2022-04-23 13:12:27 	The 'SELECT * FROM projects where type = ? ORDER BY orderN' query executed successfully 
+2001	Information 	Unknown 	2022-04-23 13:14:27 	Connection established successfully with database 
+2003	Information 	Unknown 	2022-04-23 13:14:27 	The 'SELECT * FROM projects where type = ? ORDER BY orderN' query executed successfully 
+2001	Information 	Unknown 	2022-04-23 13:18:02 	Connection established successfully with database 
+2003	Information 	Unknown 	2022-04-23 13:18:02 	The 'SELECT * FROM projects where type = ? ORDER BY orderN' query executed successfully 
+2001	Information 	Unknown 	2022-04-23 13:18:28 	Connection established successfully with database 
+2003	Information 	Unknown 	2022-04-23 13:18:28 	The 'SELECT * FROM projects where type = ? ORDER BY orderN' query executed successfully 
+2001	Information 	Unknown 	2022-04-23 13:20:44 	Connection established successfully with database 
+2003	Information 	Unknown 	2022-04-23 13:20:44 	The 'SELECT * FROM projects where type = ? ORDER BY orderN' query executed successfully 
+2001	Information 	Unknown 	2022-04-23 13:22:57 	Connection established successfully with database 
+2003	Information 	Unknown 	2022-04-23 13:22:57 	The 'SELECT * FROM projects where type = ? ORDER BY orderN' query executed successfully 
+2001	Information 	Unknown 	2022-04-23 13:24:32 	Connection established successfully with database 
+2003	Information 	Unknown 	2022-04-23 13:24:32 	The 'SELECT * FROM projects where type = ? ORDER BY orderN' query executed successfully 
+2001	Information 	Unknown 	2022-04-23 13:25:38 	Connection established successfully with database 
+2003	Information 	Unknown 	2022-04-23 13:25:38 	The 'SELECT * FROM projects where type = ? ORDER BY orderN' query executed successfully 
+2001	Information 	Unknown 	2022-04-23 14:27:07 	Connection established successfully with database 
+2003	Information 	Unknown 	2022-04-23 14:27:07 	The 'SELECT * FROM projects where type = ? ORDER BY orderN' query executed successfully 
+2001	Information 	Unknown 	2022-04-23 15:30:55 	Connection established successfully with database 
+2003	Information 	Unknown 	2022-04-23 15:30:55 	The 'SELECT * FROM projects where type = ? ORDER BY orderN' query executed successfully 
+2001	Information 	Unknown 	2022-04-23 15:32:17 	Connection established successfully with database 
+2003	Information 	Unknown 	2022-04-23 15:32:17 	The 'SELECT * FROM projects where type = ? ORDER BY orderN' query executed successfully 
+2001	Information 	Unknown 	2022-04-23 15:32:52 	Connection established successfully with database 
+2003	Information 	Unknown 	2022-04-23 15:32:52 	The 'SELECT * FROM projects where type = ? ORDER BY orderN' query executed successfully 
+2001	Information 	Unknown 	2022-04-23 15:33:12 	Connection established successfully with database 
+2003	Information 	Unknown 	2022-04-23 15:33:12 	The 'SELECT * FROM projects where type = ? ORDER BY orderN' query executed successfully 
+2001	Information 	Unknown 	2022-04-23 15:38:42 	Connection established successfully with database 
+2003	Information 	Unknown 	2022-04-23 15:38:42 	The 'SELECT * FROM projects where type = ? ORDER BY orderN' query executed successfully 
+2001	Information 	Unknown 	2022-04-23 15:40:58 	Connection established successfully with database 
+2003	Information 	Unknown 	2022-04-23 15:40:58 	The 'SELECT * FROM projects where type = ? ORDER BY orderN' query executed successfully 
+2001	Information 	Unknown 	2022-04-23 15:48:16 	Connection established successfully with database 
+2003	Information 	Unknown 	2022-04-23 15:48:16 	The 'SELECT * FROM projects where type = ? ORDER BY orderN' query executed successfully 
+2001	Information 	Unknown 	2022-04-23 15:51:39 	Connection established successfully with database 
+2003	Information 	Unknown 	2022-04-23 15:51:39 	The 'SELECT * FROM projects where type = ? ORDER BY orderN' query executed successfully 
+2001	Information 	Unknown 	2022-04-23 15:51:41 	Connection established successfully with database 
+2003	Information 	Unknown 	2022-04-23 15:51:41 	The 'SELECT * FROM projects where type = ? ORDER BY orderN' query executed successfully 
+2001	Information 	Unknown 	2022-04-23 15:53:57 	Connection established successfully with database 
+2003	Information 	Unknown 	2022-04-23 15:53:57 	The 'SELECT * FROM projects where type = ? ORDER BY orderN' query executed successfully 
+2001	Information 	Unknown 	2022-04-23 15:54:33 	Connection established successfully with database 
+2003	Information 	Unknown 	2022-04-23 15:54:33 	The 'SELECT * FROM projects where type = ? ORDER BY orderN' query executed successfully 
+2001	Information 	Unknown 	2022-04-23 18:11:08 	Connection established successfully with database 
+2003	Information 	Unknown 	2022-04-23 18:11:08 	The 'SELECT * FROM projects where type = ? ORDER BY orderN' query executed successfully 
+2001	Information 	Unknown 	2022-04-23 18:19:34 	Connection established successfully with database 
+2003	Information 	Unknown 	2022-04-23 18:19:34 	The 'SELECT * FROM projects where type = ? ORDER BY orderN' query executed successfully 
+2001	Information 	Unknown 	2022-04-23 18:24:11 	Connection established successfully with database 
+2003	Information 	Unknown 	2022-04-23 18:24:11 	The 'SELECT * FROM projects where type = ? ORDER BY orderN' query executed successfully 
+2001	Information 	Unknown 	2022-04-23 18:30:04 	Connection established successfully with database 
+2003	Information 	Unknown 	2022-04-23 18:30:04 	The 'SELECT * FROM projects where type = ? ORDER BY orderN' query executed successfully 
+2001	Information 	Unknown 	2022-04-23 18:32:11 	Connection established successfully with database 
+2003	Information 	Unknown 	2022-04-23 18:32:11 	The 'SELECT * FROM projects where type = ? ORDER BY orderN' query executed successfully 
+2001	Information 	Unknown 	2022-04-23 18:34:21 	Connection established successfully with database 
+2003	Information 	Unknown 	2022-04-23 18:34:21 	The 'SELECT * FROM projects where type = ? ORDER BY orderN' query executed successfully 
+2001	Information 	Unknown 	2022-04-23 18:34:31 	Connection established successfully with database 
+2003	Information 	Unknown 	2022-04-23 18:34:31 	The 'SELECT * FROM projects where type = ? ORDER BY orderN' query executed successfully 
+2001	Information 	Unknown 	2022-04-23 18:35:04 	Connection established successfully with database 
+2003	Information 	Unknown 	2022-04-23 18:35:04 	The 'SELECT * FROM projects where type = ? ORDER BY orderN' query executed successfully 
+2001	Information 	Unknown 	2022-04-23 18:54:32 	Connection established successfully with database 
+2003	Information 	Unknown 	2022-04-23 18:54:32 	The 'SELECT * FROM projects where type = ? ORDER BY orderN' query executed successfully 
+2001	Information 	Unknown 	2022-04-23 18:57:06 	Connection established successfully with database 
+2003	Information 	Unknown 	2022-04-23 18:57:06 	The 'SELECT * FROM projects where type = ? ORDER BY orderN' query executed successfully 
+2001	Information 	Unknown 	2022-04-23 18:58:13 	Connection established successfully with database 
+2003	Information 	Unknown 	2022-04-23 18:58:13 	The 'SELECT * FROM projects where type = ? ORDER BY orderN' query executed successfully 
+2001	Information 	Unknown 	2022-04-23 19:18:08 	Connection established successfully with database 
+2003	Information 	Unknown 	2022-04-23 19:18:08 	The 'SELECT * FROM projects where type = ? ORDER BY orderN' query executed successfully 
+2001	Information 	Unknown 	2022-04-23 19:18:49 	Connection established successfully with database 
+2003	Information 	Unknown 	2022-04-23 19:18:49 	The 'SELECT * FROM projects where type = ? ORDER BY orderN' query executed successfully 
+2001	Information 	Unknown 	2022-04-23 19:23:26 	Connection established successfully with database 
+2003	Information 	Unknown 	2022-04-23 19:23:26 	The 'SELECT * FROM projects where type = ? ORDER BY orderN' query executed successfully 
+2001	Information 	Unknown 	2022-04-23 19:24:53 	Connection established successfully with database 
+2003	Information 	Unknown 	2022-04-23 19:24:53 	The 'SELECT * FROM projects where type = ? ORDER BY orderN' query executed successfully 
+2001	Information 	Unknown 	2022-04-23 19:27:27 	Connection established successfully with database 
+2003	Information 	Unknown 	2022-04-23 19:27:27 	The 'SELECT * FROM projects where type = ? ORDER BY orderN' query executed successfully 
+2001	Information 	Unknown 	2022-04-23 19:27:33 	Connection established successfully with database 
+2003	Information 	Unknown 	2022-04-23 19:27:33 	The 'SELECT * FROM projects where type = ? ORDER BY orderN' query executed successfully 
+2001	Information 	Unknown 	2022-04-23 19:27:43 	Connection established successfully with database 
+2003	Information 	Unknown 	2022-04-23 19:27:43 	The 'SELECT * FROM projects where type = ? ORDER BY orderN' query executed successfully 
+2001	Information 	Unknown 	2022-04-23 19:27:55 	Connection established successfully with database 
+2003	Information 	Unknown 	2022-04-23 19:27:55 	The 'SELECT * FROM projects where type = ? ORDER BY orderN' query executed successfully 
+2001	Information 	Unknown 	2022-04-23 19:30:11 	Connection established successfully with database 
+2003	Information 	Unknown 	2022-04-23 19:30:11 	The 'SELECT * FROM projects where type = ? ORDER BY orderN' query executed successfully 
+2001	Information 	Unknown 	2022-04-23 19:30:47 	Connection established successfully with database 
+2003	Information 	Unknown 	2022-04-23 19:30:47 	The 'SELECT * FROM projects where type = ? ORDER BY orderN' query executed successfully 
+2001	Information 	Unknown 	2022-04-23 19:31:04 	Connection established successfully with database 
+2003	Information 	Unknown 	2022-04-23 19:31:04 	The 'SELECT * FROM projects where type = ? ORDER BY orderN' query executed successfully 
+2001	Information 	Unknown 	2022-04-23 19:31:09 	Connection established successfully with database 
+2003	Information 	Unknown 	2022-04-23 19:31:09 	The 'SELECT * FROM projects where type = ? ORDER BY orderN' query executed successfully 
+2001	Information 	Unknown 	2022-04-23 21:33:27 	Connection established successfully with database 
+2003	Information 	Unknown 	2022-04-23 21:33:27 	The 'SELECT * FROM projects where type = ? ORDER BY orderN' query executed successfully 
+2001	Information 	Unknown 	2022-04-23 21:35:02 	Connection established successfully with database 
+2003	Information 	Unknown 	2022-04-23 21:35:02 	The 'SELECT * FROM projects where type = ? ORDER BY orderN' query executed successfully 
+2001	Information 	Unknown 	2022-04-23 21:43:30 	Connection established successfully with database 
+2003	Information 	Unknown 	2022-04-23 21:43:30 	The 'SELECT * FROM projects where type = ? ORDER BY orderN' query executed successfully 

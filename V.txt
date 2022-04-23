@@ -1,0 +1,2 @@
+1.0 Home landing page
+1.1 adding projects page and fix some bugs in home page
