@@ -1,5 +1,13 @@
-#Hide Extensions
+# Always use https for secure connections
+# (as it appears on your SSL certificate)
 RewriteEngine On
+#Remove www
+RewriteCond %{HTTP_HOST} ^www.persona-eg.com$ [NC]
+RewriteRule ^(.*)$ https://persona-eg.com/$1 [R=301,L]
+#enforce HTTPS
+RewriteCond %{HTTPS} off
+RewriteRule (.*) https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
+#Hide Extensions
 # The requested filename "/index" is not a directory
 RewriteCond %{REQUEST_FILENAME} !-d
 # There is a file on the file system named as the request, with extension .php
@@ -7,3 +15,11 @@ RewriteCond %{REQUEST_FILENAME}.php -f
 # If all of the above is true, pretend that the ".php" file had been called
 # by rewriting the request appending .php
 RewriteRule ^(.*)$ $1.php
+# Cache images
+<filesMatch ".(ico|jpg|jpeg|png|gif|webp|svg|woff2|ttf)$">
+ Header set Cache-Control "max-age=2592000, public"
+</filesMatch>
+# Cache js and css
+<filesMatch ".(css|js)$">
+ Header set Cache-Control "max-age=2592000, public"
+</filesMatch>
