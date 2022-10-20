@@ -1,4 +1,3 @@
 Sitemap: https://persona-eg.com/sitemap.xml
-
 User-agent: *
 Allow: /
