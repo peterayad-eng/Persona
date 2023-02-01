@@ -1,3 +1,4 @@
 1.0 Home landing page
 1.1 Adding projects page and fix some bugs in home page
 1.2 Removing the sideline indicator from home page, changing the scrollbar style, and Removing slide numbers from projects
+1.3 Adding FAQ and make changes on the pages description

@@ -1,4 +1,4 @@
-<section id="application">
+<section id="application" class=''>
     <div class='fullwidth center automargin'>
         <div class='flexContainer sHead justifycenter'>
             <img class='arrow' src="Images/arrow.svg" alt='arrow'/>
@@ -7,7 +7,7 @@
         </div>
     </div>
     <div class='row nomargin bottomMargin'>
-        <div class="col-11 col-md-8">
+        <div class="col-11 col-md-8 automargin">
              <?php
                 if(isset($_GET['serror']) && $_GET['serror'] == 1){
                     echo "<div style='color:green' class='leftpadd ptext'>Your request is submitted successfully. We will contact you.</div>";
@@ -29,7 +29,7 @@
                         <input id="verifyingcode" name="verifyingcode" type="text" placeholder='Verifying code' class="verifyingcode"/>
                     </div>
                     <div class="col-12 col-md-3 applycontainer nomargin nopadd">
-                        <div class="custom-control formradio">
+                        <div class="custom-control formradio formradio1">
                             <div class='flexContainer'>
                                 <label for='customRadio1' class='white ptext radioText'>Website</label>
                                 <label class="formlabel justifycenter radiolabel ptext">
@@ -38,7 +38,7 @@
                                 </label>
                             </div>
                         </div>
-                        <div class="custom-control formradio">
+                        <div class="custom-control formradio formradio2">
                             <div class='flexContainer'>
                                 <label for='customRadio1' class='white ptext radioText'>Webapp</label>
                                 <label class="formlabel radiolabel justifycenter ptext">

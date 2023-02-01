@@ -35,6 +35,10 @@
 
 @-webkit-keyframes slideInLeftMod{0%{-webkit-transform:translate3d(-60%,0,0);transform:translate3d(-60%,0,0);visibility:visible}to{-webkit-transform:translateZ(0);transform:translateZ(0)}}
 @keyframes slideInLeftMod{0%{-webkit-transform:translate3d(-60%,0,0);transform:translate3d(-60%,0,0);visibility:visible}to{-webkit-transform:translateZ(0);transform:translateZ(0)}}
+@-webkit-keyframes slideOutLeftMod{0%{-webkit-transform:translateZ(0);transform:translateZ(0)}to{visibility:hidden;-webkit-transform:translate3d(-50%,0,0);transform:translate3d(-50%,0,0)}}
+@keyframes slideOutLeftMod{0%{-webkit-transform:translateZ(0);transform:translateZ(0)}to{visibility:hidden;-webkit-transform:translate3d(-50%,0,0);transform:translate3d(-50%,0,0)}}
+@-webkit-keyframes slideOutRightMod{0%{-webkit-transform:translateZ(0);transform:translateZ(0)}to{visibility:hidden;-webkit-transform:translate3d(50%,0,0);transform:translate3d(50%,0,0)}}
+@keyframes slideOutRightMod{0%{-webkit-transform:translateZ(0);transform:translateZ(0)}to{visibility:hidden;-webkit-transform:translate3d(50%,0,0);transform:translate3d(50%,0,0)}}
 
 html{
     min-height:100%; 
@@ -43,7 +47,7 @@ html{
     display: flex;
     flex-flow: column;
     font-family: 'Raleway-bold', sans-serif;
-    font-size:22px;
+    font-size:2.1vw;
     font-display:swap;
     scrollbar-color: #4A4A4A rgba(0,0,0,0);
     scrollbar-width: thin;
@@ -281,6 +285,10 @@ main{
         margin: 0;
     }
 
+    .noleftmargin{
+        margin-left: 0;
+    }
+
     .paddin{
         padding: 1% 3%;
     }
@@ -332,9 +340,8 @@ main{
     }
 
         #carousel{
-            min-height:98vh;
-            padding-top: 3rem;
-            padding-left: 2rem;
+            padding-top: 4rem;
+            padding-bottom: 1rem;
         }
 
                 .webtext{
@@ -392,6 +399,10 @@ main{
                         background-color: #0F939F;
                         border: 1px solid #0F939F;
                         border-radius: 0.35rem;
+                    }
+
+                    a.hButton{
+                        width:6.5rem
                     }
 
                     .headbuttonText{
@@ -472,7 +483,6 @@ main{
                 }
 
             .service{
-                padding-top: 0.5rem;
                 height:14rem;
             }
 
@@ -481,11 +491,10 @@ main{
                 background-position: center;
                 background-repeat: no-repeat;
                 background-size: 100% 100%;
-                width:30%;
                 height:4rem;
                 padding-bottom: 1.5rem;
                 margin: 1rem auto 0.25rem;
-                font-size: 2.5vw;
+                font-size: 1rem;
             }
 
                 .serviceM{
@@ -494,7 +503,7 @@ main{
                     background-repeat: no-repeat;
                     background-size: 100% 100%;
                     padding: 0.5rem 2% 0%;
-                    height: 10rem;
+                    height: 10.5rem;
                     width:80%;
                     margin:auto;
                 }
@@ -530,8 +539,8 @@ main{
                         text-align: right;
                         padding: 1% 0% 1rem 12%;
                         top:5%;
-                        right:28%;
-                        font-size: 2.5vw;
+                        right:28.5%;
+                        font-size: 1rem;
                     }
 
                     .serviceBL{
@@ -539,6 +548,31 @@ main{
                         padding: 3.5rem 2% 0%;
                     }
 
+                        .more{
+                            padding-top: 0.3rem;
+                            padding-right: 0.5rem;
+                            float: right;
+                        }
+
+                        .more:hover>.moreW{
+                            color:white;
+                            display: inline-block;
+                            text-decoration: none;
+                        }
+
+                            .moreW{
+                                padding-left: 0.2rem;
+                                text-decoration: underline;
+                            }
+
+                        .more:hover>.moreArr{
+                            filter: brightness(0) saturate(100%) invert(99%) sepia(100%) saturate(0%) hue-rotate(275deg) brightness(106%) contrast(101%);
+                        }
+
+                            .moreArr{
+                                width: 1rem;
+                                filter: invert(45%) sepia(46%) saturate(6733%) hue-rotate(160deg) brightness(94%) contrast(88%);
+                            }
 
                     .numBL{
                         bottom: 0.5rem;
@@ -565,8 +599,8 @@ main{
                         height: 3rem;
                         padding: 1% 12% 1rem 0%;
                         top:5%;
-                        left:28%;
-                        font-size: 2vw;
+                        left:28.5%;
+                        font-size: 0.85rem;
                     }
 
                     .serviceBR{
@@ -588,6 +622,105 @@ main{
                 padding-left: 3rem;
             }
 
+            .listPadd{
+                padding-left: 1.5rem;
+            }
+
+        #FAQ{
+
+        }
+
+            .faqH{
+                margin-left: 3rem;
+                margin-right: 3rem;
+            }
+
+                .faqHC{
+                    position:relative;
+                    height:1.5rem;
+                }
+
+                    .faqHT{
+                        position: absolute;
+                        top:0;
+                        font-size: 3rem;
+                        color: white;
+                        z-index: 50000;
+                    }
+
+            .faqcarousel {
+                position: relative;
+                display: flex;
+            }
+
+                .faqcarousel .faqslides {
+                    position: relative;
+                    top: 1rem;
+                    left: 2rem;
+                }
+
+                    .faqcarousel .faqslides .faqslide {
+                        position: absolute;
+                        width: 28rem;
+                        height:13rem;
+                        opacity: 0;
+                        z-index: 9999;
+                    }
+
+                    .faqcarousel .faqslides .faqslide.active {
+                        opacity: 1;
+                    }
+
+                .faqoverlays {
+                    position: relative;
+                    width: 35rem;
+                    height: 15rem;
+                }
+
+                    .faqoverlays .faqbar {
+                        position: absolute;
+                        top: 0;
+                        left: 0;
+                        width: 100%;
+                        height: 100%;
+                        background: var(--bar-color);
+                        border-bottom-right-radius: 0.9rem;
+                        border-top-right-radius: 0.9rem;
+                        transform-origin: left;
+                        backdrop-filter: blur(0.5rem);
+                    }
+
+                .faq-links {
+                    display: flex;
+                    flex-direction: column;
+                    justify-content: center;
+                    align-items: flex-start;
+                    margin: 0;
+                    padding: 0 0 0 1rem;
+                    list-style-type: none;
+                }
+
+                    .faq-links .faq-link {
+                        font-size: 1rem;
+                        line-height: 2;
+                        text-decoration: none;
+                        color: white;
+                        transition: 0.3s;
+                    }
+
+                    .faq-links .faq-link:hover {
+                        color: #77B800;
+                    }
+
+                    .faq-links .faq-link:focus {
+                        color: white;
+                    }
+
+                    .faq-links .faq-link.active {
+                        color: #77B800;
+                        pointer-events: none;
+                    }
+              
         #application{
             padding-top:1rem;
             margin-left: 3rem;
@@ -605,6 +738,7 @@ main{
                     border-radius: 1rem;
                     padding: 0.35rem;
                     margin-top: 1rem;
+                    margin-left: 0;
                 }
 
                     .forminput{
@@ -780,7 +914,7 @@ main{
                 height:4rem;
                 padding-bottom: 1.5rem;
                 margin: 1rem auto 0.25rem;
-                font-size: 2.5vw;
+                font-size: 1rem;
             }
 
                     .pserv:hover, .pserv:active, .pserv:focus{
@@ -822,16 +956,17 @@ main{
                     }
 
                         .carousel-indicators [data-bs-target]{
-                            width:0.3rem;
-                            height:0.3rem;
+                            width:0.4rem;
+                            height:0.4rem;
                             border-radius:100%;
                             background-color: #18343B;
+                            margin-left: 0.15rem;
+                            margin-right: 0.15rem;
                         }
 
                         .carousel-indicators .active{
                             width:0;
                             height:0;
-                            border-top-width: 0.25rem;
                             border-bottom: 0.4rem solid #18343B;
                             border-left: 0.25rem solid rgba(0,0,0,0);
                             border-right: 0.25rem solid rgba(0,0,0,0);
@@ -961,6 +1096,11 @@ main{
                         transition: 0.5s;
                     }
 
+                    .fa-linkedin:hover{
+                        color: #0077b5;
+                        transition: 0.5s;
+                    }
+
                     .fa-youtube:hover{
                         color: #FF0000;
                         transition: 0.5s;
@@ -978,79 +1118,11 @@ main{
             padding-bottom: 0.25rem;
         }
 
-@media only screen and (max-device-width: 360px){
-    html{
-        font-size:16px;
-    }
-    
-        main{
-
-        }
-    
-            #services{
-
-            }
-    
-                #services .service, .center .serviceHM{
-                    width:100%;
-                }
-    
-            #application{
-
-            }
-    
-                    .applycontainer .formradio{
-                        width:90%;
-                    }
-    
-            #projects{
-
-            }
-    
-                .center .pser{
-                    width:100%;
-                }
-}
-
-@media only screen and (max-device-width: 540px){
-    html{
-        font-size:20px;
-    }
-    
-        main{
-
-        }
-    
-            #services{
-
-            }
-    
-                #services .service, .center .serviceHM{
-                    width:80%;
-                }
-    
-            #projects{
-
-            }
-    
-                .center .pser{
-                    width:80%;
-                }
-    
-                    .menu--item {
-                        width: 100vw;
-                    }
-    
-        footer{
-
-        }   
-    
-                .foobrandiv, .icons{
-                    text-align: center;
-                }
-}
-
 @media only screen and (max-device-width: 767px){
+    html{
+        font-size: 20px;
+    }
+    
         .fbg::before{
             background-size: auto;
         }
@@ -1081,24 +1153,57 @@ main{
 
         }
     
+            #carousel{
+                
+            }
+    
+                    .headButtonC, .arrdiv, .arrCap{
+                        text-align:center;
+                    }
+    
             #services{
 
             }
     
-                .service{
+                .service, .serviceHMC{
                     height:auto;
                     width: 55%;
                     margin: auto;
                 }
     
-                    .serviceHM{
-                        width:55%;
-                    }
-    
                     .serviceL, .serviceR{
                         height:14rem;
                     }
     
+            #aboutus{
+
+            }
+    
+                    .faqcarousel .faqslides {
+                        left: 0.5rem;
+                    }
+
+                        .faqcarousel .faqslides .faqslide {
+                            width: 70vw;
+                        }
+
+                    .faqoverlays {
+                        width: 75vw;
+                    }
+
+                    .faq-links {
+                        padding: 0 0 0 0.5rem;
+                    }
+
+                        .faq-links .faq-link {
+                            font-size: 0.7rem;
+                            line-height: 1.5;
+                        }
+    
+                            .listPadd{
+                                padding-left: 1rem;
+                            }
+
             #application{
 
             }
@@ -1121,6 +1226,10 @@ main{
 
             }
     
+                .details{
+                    height: auto;
+                }
+    
                     .rimg{
                         max-width: 50%;
                     }
@@ -1142,36 +1251,116 @@ main{
                     }
 }
 
-@media only screen and (min-device-width: 1200px){
+@media only screen and (max-device-width: 575px){
     html{
-        font-size:30px;
+        font-size: 18px;
     }
     
         main{
 
         }
-}
-
-@media only screen and (min-device-width: 1750px){
-    html{
-        font-size:38px;
-    }
     
-        main{
+            #services{
 
-        }
+            }
+    
+                #services .service, #services .serviceHMC{
+                    width:70%;
+                }
+    
+            #aboutus{
+
+            }
+    
+                    .faqcarousel .faqslides {
+                        left: 0.2rem;
+                    }
+
+                        .faqcarousel .faqslides .faqslide {
+                            height: 16rem;
+                        }
+
+                    .faqoverlays {
+                        height: 18rem;
+                    }
+
+                    .faq-links {
+                        padding: 0 0 0 0.2rem;
+                    }
+
+                        .faq-links .faq-link {
+                            font-size: 0.56rem;
+                        }
+    
+                            .listPadd{
+                                padding-left: 0.5rem;
+                            }
     
             #projects{
-                
+
             }
+    
+                .center .pser{
+                    width:80%;
+                }
+    
+                    .menu--item {
+                        width: 100vw;
+                    }
+    
+        footer{
+
+        }   
+    
+                .foobrandiv, .icons{
+                    text-align: center;
+                }
 }
 
-@media only screen and (min-device-width: 2100px){
+@media only screen and (max-device-width: 360px){
     html{
-        font-size:44px;
-    }    
+        font-size: 16px;
+    }
     
         main{
 
         }
+    
+            #services{
+
+            }
+    
+                #services .service, #services .serviceHMC{
+                    width:100%;
+                }
+    
+            #application{
+
+            }
+    
+                    .formradio1{
+                        width:90%;
+                        margin:0.5rem 0px 0.25rem;
+                    }
+    
+                    .formradio2{
+                        width:90%;
+                        margin:0.25rem 0px 1rem;
+                    }
+    
+                        .formradio .flexContainer{
+                            justify-content: center;
+                        }
+    
+                    .applycontainer{
+                        width:90%;
+                    }
+    
+            #projects{
+
+            }
+    
+                .center .pser{
+                    width:100%;
+                }
 }

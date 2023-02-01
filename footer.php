@@ -8,8 +8,9 @@
                     <div class="col-6 col-sm-4 col-md-3">
                         <div class='icons'>
                             <a href="https://facebook.com/YourPersona" target="_blank"><i class="fab fa-facebook-f icon headText2"></i></a>
-                            <a href="https://instagram.com/persona_1web/" target="_blank"><i class="fa-brands fa-instagram icon headText2"></i></a>
+                            <a href="https://www.instagram.com/persona_03" target="_blank"><i class="fa-brands fa-instagram icon headText2"></i></a>
                             <a href="https://api.whatsapp.com/send?phone=+201555654750" target="_blank"><i class="fab fa-whatsapp icon headText2"></i></a>
+                            <a href="https://www.linkedin.com/company/persona-web-developer" target="_blank"><i class="fa-brands fa-linkedin icon headText2"></i></a>
                             <a href="https://www.youtube.com/channel/UCfvQsJSstPJfG9YDeUnQ0nQ" target="_blank"><i class="fab fa-youtube icon headText2"></i></a>
                         </div>
                         <div class='subscribe'>
@@ -26,7 +27,7 @@
     }
 ?>
 		
-		<script src="Bootstrap5.1.3/jquery-3.6.0.min.js"></script>
+		<script src="Bootstrap5.1.3/jquery-3.6.3.min.js"></script>
         <script src="Bootstrap5.1.3/popper.min.js"></script>
         <script src="Bootstrap5.1.3/js/bootstrap.min.js"></script>
         <script src='Js/gsap.min.js'></script>

@@ -1,40 +1,40 @@
 <!DOCTYPE html>
 <html lang="en">	
 	<head>
-		<title>Persona for Web Development</title>
+		<title>Create your own high quality website with persona</title>
 		<meta charset="utf-8" />
-        <meta name="keywords" content="Persona, Persona web, Design, website, web-app, webapp, website egypt, web development egypt, web app, create website">
+        <meta name="keywords" content="Persona, Persona web, Design, website, web-app, webapp, website egypt, web development egypt, web app, create website, web site">
 		<meta name="author" content="https://www.persona-eg.com" />
 		<meta name="publisher" content="Persona for web services" />
         <meta name="language" content="en">
-        <meta name="description" content="Persona is a web service company that Develops your corporate website or web application. Our websites are designed to build your own high-quality websites." />
+        <meta name="description" content="Persona is a web development company for creating your customized website or web app with an attractive design that fits all your business needs, helping you achieve goals and overcome challenges with the best price and quality." />
         
 		<meta name="DC.creator" content="https://www.persona-eg.com">
-        <meta name="DC.Publisher" content="Persona for web services" />
+        <meta name="DC.Publisher" content="Persona for web development" />
 		<meta name="DC.Rights" content="Copyright 2021, Persona Team. All rights reserved." />
 		<meta name="DC.Type" content="text/html" />
 		<meta name="DC.Language" content="en" />
-        <meta name="DC.Title" xml:lang="en" content="Persona" />
-		<meta name="DC.Description" xml:lang="en" content="Persona is a web service company that Design, develop, and maintain your corporate website or web application. Our websites are designed to build your own high-quality websites and customized to help you achieve your goals. Our websites are designed to be responsive to optimize the performance of websites across all devices." />
+        <meta name="DC.Title" xml:lang="en" content="Create your own high quality website with persona" />
+		<meta name="DC.Description" xml:lang="en" content="Creating your customized website or web app with an attractive design that fits all your business needs, helping you achieve goals and overcome challenges. Persona is a web development company that Design, develop, and maintain your corporate website or web application. Our websites are designed to be responsive to optimize the performance of websites across all devices." />
 		<meta name="DC.Identifier" schema="DCterms:URI" content="http://www.persona-eg.com/index" />
 		
 		<meta property="og:type" content="website" />
-		<meta property="og:title" content="Persona" />
+		<meta property="og:title" content="Create your own high quality website with persona" />
 		<meta property="og:url" content="http://www.persona-eg.com/index" />
-		<meta property="og:description" content="Persona is a web service company that Design, develop, and maintain your corporate website or web application. Our websites are designed to build your own high-quality websites and customized to help you achieve your goals. Our websites are designed to be responsive to optimize the performance of websites across all devices." />
+		<meta property="og:description" content="Creating your customized website or web app with an attractive design that fits all your business needs, helping you achieve goals and overcome challenges. Persona is a web development company that Design, develop, and maintain your corporate website or web application. Our websites are designed to be responsive to optimize the performance of websites across all devices." />
 		<meta property="og:site_name" content="Persona" />
         <meta property="og:image" content="Images/logo.png" />
         
         <meta property="twitter:card" content="website" />
-		<meta property="twitter:title" content="Persona" />
+		<meta property="twitter:title" content="Create your own high quality website with persona" />
 		<meta property="twitter:creator" content="https://www.persona-eg.com" />
-		<meta property="twitter:description" content="Persona is a web service company that Design, develop, and maintain your corporate website or web application. Our websites are designed to build your own high-quality websites and customized to help you achieve your goals. Our websites are designed to be responsive to optimize the performance of websites across all devices." />
+		<meta property="twitter:description" content="Creating your customized website or web app with an attractive design that fits all your business needs, helping you achieve goals and overcome challenges. Persona is a web development company that Design, develop, and maintain your corporate website or web application. Our websites are designed to be responsive to optimize the performance of websites across all devices." />
 		<meta property="twitter:site" content="Persona" />
         <meta property="twitter:image" content="Images/logo.png" />
         
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <meta name="robots" content="index, follow">
-        <meta http-equiv="Content-Security-Policy" content="default-src 'self' https://www.google-analytics.com/; style-src 'self' 'unsafe-inline'; img-src *; media-src 'none' ; child-src https://www.google.com; script-src 'self' 'sha256-B8XxDv8cQgLWNTwbmrYhZyjFAdEvAGjJb9rfh+ljfd4=' 'sha256-A9FjnGtxGjGcayHBdO9oPi18v9GCIfg2RMocLGdDgDg=' https://www.googletagmanager.com/ 'nonce-googleanalytics'">
+        <meta http-equiv="Content-Security-Policy" content="default-src 'self' https://www.google-analytics.com/; style-src 'self' 'unsafe-inline'; img-src *; media-src 'none' ; child-src https://www.google.com; script-src 'self' 'sha256-B8XxDv8cQgLWNTwbmrYhZyjFAdEvAGjJb9rfh+ljfd4=' 'sha256-A9FjnGtxGjGcayHBdO9oPi18v9GCIfg2RMocLGdDgDg=' https://www.googletagmanager.com/ 'nonce-googleanalytics' 'nonce-splideJS'">
 		
 		<link rel="canonical" href="https://persona-eg.com/" />
         <link rel="shortcut icon" href="Images/logo.ico" type="image/x-icon"/>
@@ -60,7 +60,7 @@
 		<header>
             <nav class="navbar navbar-expand-md fixed-top">
                 <div class="container-fluid">
-                    <a class="navbar-brand" href="index"><h1 class='nomargin'><img class='navlogo' src="Images/logo.png" alt='Persona for Web Development'/></h1></a>
+                    <h1 class='nomargin'><a class="navbar-brand nomargin" href="index"><img class='navlogo' src="Images/logo.png" alt='Persona for Web Development'/></a></h1>
                     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarToggler" aria-controls="navbarToggler" aria-expanded="false" aria-label="Toggle navigation">
                         <span class="navbar-toggler-icon"><i class="fas fa-bars togglerbars white"></i></span>
                     </button>

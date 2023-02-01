@@ -12,6 +12,16 @@
         <priority>0.80</priority>
     </url>
     <url>
+        <loc>https://persona-eg.com/projects?type=0&amp;design=website</loc>
+        <lastmod>2022-10-20T13:03:30+00:00</lastmod>
+        <priority>0.80</priority>
+    </url>
+    <url>
+        <loc>https://persona-eg.com/projects?type=1&amp;design=webapp</loc>
+        <lastmod>2022-10-20T13:03:30+00:00</lastmod>
+        <priority>0.80</priority>
+    </url>
+    <url>
         <loc>https://persona-eg.com/projects?type=0</loc>
         <lastmod>2022-10-20T13:03:30+00:00</lastmod>
         <priority>0.80</priority>

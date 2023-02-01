@@ -127,6 +127,32 @@ if(page=="" || page=="index"){
         homeA.reverse();
     });
     
+    //More button animation
+    var moreWM = gsap.timeline({paused:true});
+    moreWM.to(".moreHovWM", {duration:0.5, x: "-80%"});
+    var moreAM = gsap.timeline({paused:true});
+    moreAM.to(".moreHovAM", {duration:0.5, x: "150%"});
+    $(".moreHovM").on("mouseenter",function(){
+        moreAM.play();
+        moreWM.play();
+    });
+    $(".moreHovM").on("mouseleave",function(){
+        moreWM.reverse();
+        moreAM.reverse();
+    });
+    var moreWL = gsap.timeline({paused:true});
+    moreWL.to(".moreHovWL", {duration:0.5, x: "-70%"});
+    var moreAL = gsap.timeline({paused:true});
+    moreAL.to(".moreHovAL", {duration:0.5, x: "170%"});
+    $(".moreHovL").on("mouseenter",function(){
+        moreAL.play();
+        moreWL.play();
+    });
+    $(".moreHovL").on("mouseleave",function(){
+        moreWL.reverse();
+        moreAL.reverse();
+    });
+    
     //animate scroll from other pages
     const urlParams = new URLSearchParams(window.location.search);
     if(urlParams.has('part')){
@@ -138,6 +164,108 @@ if(page=="" || page=="index"){
             $("html, body").animate({ scrollTop: $("#application").offset().top - fiveRems }, 300);
         }
     }
+    
+    //FAQ Carousel
+    let clickDisabled=false;
+    let faqLinks = document.querySelectorAll(".faqcarousel .faq-link");
+    let faqslides = document.querySelectorAll(".faqcarousel .faqslides .faqslide");
+    let faqoverlays = document.querySelectorAll(".faqcarousel .faqbar");
+    let faqZIndex = faqLinks.length;
+    let easeInOutQuart = "cubic-bezier(0.77, 0, 0.175, 1)";
+    faqslides[0].classList.add("active");
+    faqLinks[0].classList.add("active");
+    faqLinks.forEach((faqLink, activeIndex) => {
+        faqoverlays[activeIndex].style.zIndex = `${faqLinks.length - activeIndex}`;
+        for(let j=0;j<faqoverlays.length;j++){
+            if(j==0){
+                faqoverlays[j].style.visibility='visible';
+            }else{
+                faqoverlays[j].style.visibility='hidden';
+            }
+        }
+        faqLink.addEventListener("click", () => {
+            event.preventDefault();
+            if(clickDisabled==false){
+                clickDisabled=true;
+                // nav-link
+                faqLinks.forEach(faqLink => faqLink.classList.remove("active"));
+                faqLink.classList.add("active");
+                // slide
+                let currentSlide = document.querySelector(".faqcarousel .faqslides .faqslide.active");
+                let slideFadeOut = currentSlide.animate(
+                    [
+                        { transform: "translateX(0)", opacity: 1 },
+                        { transform: "translateX(5%)", opacity: 0 }
+                    ],
+                    {
+                        duration: 600,
+                        easing: "ease-in",
+                        fill: "forwards"
+                    }
+                );
+                slideFadeOut.onfinish = () => {
+                    faqslides.forEach(faqslide => faqslide.classList.remove("active"));
+                    let activeSlide = faqslides[activeIndex];
+                    activeSlide.classList.add("active");
+                    activeSlide.animate(
+                        [
+                            {
+                                transform: "translateX(-5%)",
+                                opacity: 0
+                            },
+                            {
+                                transform: "translateX(0)",
+                                opacity: 1
+                            }
+                        ],
+                        { duration: 600, easing: "ease-out", fill: "forwards" }
+                    );
+                };
+                // overlay
+                faqZIndex += 1;
+                let activeOverlay = faqoverlays[activeIndex];
+                activeOverlay.style.zIndex = `${faqZIndex}`;
+                activeOverlay.style.visibility='visible';
+                activeOverlay.animate(
+                  [{ transform: "scaleX(0)" }, { transform: "scaleX(1)" }],
+                  { duration: 1200, fill: "forwards", easing: easeInOutQuart }
+                );
+                setTimeout(function() {
+                    for(let j=0;j<faqoverlays.length;j++){
+                        if(j!=activeIndex){
+                            faqoverlays[j].style.visibility='hidden';
+                        }
+                    }
+                    clickDisabled=false;
+                }, 1200);
+            }
+        });
+    });
+
+    /*var splide = new Splide( '.splide', {
+        type   : 'loop',
+        autoplay: false,
+        interval:5000,
+        speed: 1000,
+        arrows: false,
+        pauseOnHover:'true',
+        dragMinThreshold: {
+            mouse: 0,
+            touch: 10,
+        },
+        breakpoints: {
+            1024: {
+                padding: '20%',
+                gap:'-20%',
+            },
+            767: {
+                padding: '10%',
+                gap:'-10%',
+            },
+        },
+    } );
+    
+    splide.mount(); */
 }
 
 //button Animation
@@ -357,7 +485,6 @@ if(page=="projects"){
       oldScrollY = y
 
       gsap.to($items, {
-        skewX: -scrollSpeed * .2,
         rotate: scrollSpeed * .01,
         scale: 1 - Math.min(100, Math.abs(scrollSpeed)) * 0.003
       })
