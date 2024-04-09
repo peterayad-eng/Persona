@@ -34,7 +34,7 @@
         
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <meta name="robots" content="index, follow">
-        <meta http-equiv="Content-Security-Policy" content="default-src 'self' https://www.google-analytics.com/; style-src 'self' 'unsafe-inline'; img-src *; media-src 'none' ; child-src https://www.google.com; script-src 'self' 'sha256-B8XxDv8cQgLWNTwbmrYhZyjFAdEvAGjJb9rfh+ljfd4=' 'sha256-A9FjnGtxGjGcayHBdO9oPi18v9GCIfg2RMocLGdDgDg=' https://www.googletagmanager.com/ 'nonce-googleanalytics' 'nonce-splideJS'">
+        <meta http-equiv="Content-Security-Policy" content="default-src 'self' https://www.google-analytics.com/; style-src 'self' 'unsafe-inline'; img-src *; media-src 'none' ; child-src https://www.google.com; script-src 'self' 'sha256-B8XxDv8cQgLWNTwbmrYhZyjFAdEvAGjJb9rfh+ljfd4=' 'sha256-A9FjnGtxGjGcayHBdO9oPi18v9GCIfg2RMocLGdDgDg=' 'nonce-projects' 'nonce-googleanalytics' 'nonce-googletag' 'nonce-splideJS' https://www.googletagmanager.com/ ">
 		
 		<link rel="canonical" href="https://persona-eg.com/" />
         <link rel="shortcut icon" href="Images/logo.ico" type="image/x-icon"/>
@@ -48,13 +48,14 @@
 		<link rel="stylesheet" href="CSS/CSS.css">
 	</head>
 	<!-- Google tag (gtag.js) -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=G-YMJL097VX7"></script>
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-CN9ZC814HF" nonce='googletag'></script>
     <script nonce='googleanalytics'>
       window.dataLayer = window.dataLayer || [];
       function gtag(){dataLayer.push(arguments);}
       gtag('js', new Date());
     
-      gtag('config', 'G-YMJL097VX7');
+      gtag('config', 'G-CN9ZC814HF');
+    </script>
     </script>
 	<body>
 		<header>

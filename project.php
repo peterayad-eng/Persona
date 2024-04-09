@@ -76,7 +76,7 @@
         </div>
     </div>
 </section>
-<script>
+<script nonce='projects'>
     var projects = [];
     <?php
         foreach($projects as $project){
